@@ -1,5 +1,9 @@
 THANK YOU FOR TRYING OUT MY CHESS ENGINE!!
 
+Trial.py is under devolopment . it features against ai gameplay.
+
+chess2.py is the main file (client script).
+chess-server.py is the server script.
 
 -> online mode - you can play on same machine by running the server script on the one machine and connecting two clients on different machines
                  but same network connection so that the share same ip.
