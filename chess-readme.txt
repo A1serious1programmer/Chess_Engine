@@ -4,6 +4,8 @@ Trial.py is under devolopment . it features against ai gameplay.
 
 chess2.py is the main file (client script).
 chess-server.py is the server script.
+Move_Validation.py is the file which generates the valid moves for the respective pieces. it has 6 functions to generate the valid moves for 6 respective pieces( rook, bishop, knight, king, pawn, queen).
+Marker.py is a file which initialises the marker turtles.
 
 -> online mode - you can play on same machine by running the server script on the one machine and connecting two clients on different machines
                  but same network connection so that the share same ip.
