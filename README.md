@@ -1,3 +1,9 @@
+
+-- NOTE --
+DEMO -
+
+https://github.com/ojas-sharma-01/Chess_Engine/assets/114296963/edd49a35-e817-4b0e-a2f2-45e87705fc28
+
 THANK YOU FOR TRYING OUT MY CHESS ENGINE!!
 
 Trial.py is under devolopment . it features against ai gameplay.
@@ -18,9 +24,7 @@ HOW TO ENTER IP
 -> if playing locally -  then enter ip of one machine in server script and same ip in client scripts of two clients
 
 -> if playing on different networks bind the ip of server script to an empty string ("") and in the client script enter the ip of server machine.
-		    
 
--- NOTE --
 PORT NUMBER SHOULD BE SAME.
 RECOMMENDED - CHOOSE PORT above 4000
 
