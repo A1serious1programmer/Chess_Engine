@@ -4,7 +4,6 @@ DEMO -
 
 https://github.com/ojas-sharma-01/Chess_Engine/assets/114296963/edd49a35-e817-4b0e-a2f2-45e87705fc28
 
-THANK YOU FOR TRYING OUT MY CHESS ENGINE!!
 
 Trial.py is under devolopment . it features against ai gameplay.
 
